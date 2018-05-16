@@ -10,6 +10,8 @@ This is combine list about library in iOS
 1. Local database: https://realm.io/docs/swift/latest
 2. Messages: https://github.com/MessageKit/MessageKit
 3. Slide menu: https://github.com/dekatotoro/SlideMenuControllerSwift
-4. Horizontal scroll menu:
+4. Horizontal scroll menu: https://github.com/xmartlabs/XLPagerTabStrip
 5. Calendar: https://github.com/patchthecode/JTAppleCalendar
+6. Animation label: https://github.com/cbpowell/MarqueeLabel
+7. Load more tableview: https://github.com/eggswift/pull-to-refresh
 
